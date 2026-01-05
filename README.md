@@ -1,31 +1,31 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1a73e8&height=200&section=header&text=Eduardo%20Ferreira%20Proença&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=fff" />
+</div>
 
-
-# 💻  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-end;Estudante+de+ADS;Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-end;Estudante+de+ADS;Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
 
 
 ## 👨‍💻 Sobre Mim
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+Olá! Me chamo Eduardo Ferreira Proença e sou estudante da área de tecnologia, com foco em desenvolvimento de software e engenharia de sistemas.
+🎓 Formação:
 
-Olá! Me chamo Eduardo Ferreira Proença e sou estudante da área de tecnologia, com foco em desenvolvimento de software e engenharia de sistemas. Atualmente curso Análise e Desenvolvimento de Sistemas e possuo formação técnica pela Etec, onde desenvolvi uma base sólida tanto em tecnologia quanto em áreas administrativas.
+Cursando Análise e Desenvolvimento de Sistemas
+Técnico em Desenvolvimento de Sistemas pela Etec
+Técnico em Contabilidade e Finanças pela Etec
 
-Na Etec, cursei Desenvolvimento de Sistemas e também Contabilidade e Finanças, o que me proporcionou uma visão mais ampla sobre processos, organização, análise e uso da tecnologia aplicada a negócios. Essa combinação contribui para uma abordagem mais analítica e estruturada no desenvolvimento de sistemas.
+💡 Foco e Interesse:
 
-Tenho maior interesse em back-end, atuando com lógica de programação, organização de código e desenvolvimento de APIs. Busco aplicar boas práticas como clean code, arquitetura bem definida e manutenibilidade, sempre transformando aprendizado teórico em projetos práticos.
+Desenvolvimento Back-end
+Lógica de programação
+Desenvolvimento de APIs
+Clean Code e boas práticas
+Arquitetura de Software
+Documentação Técnica
 
-Além da programação, tenho interesse em engenharia de software, documentação técnica e análise de requisitos, mantendo um aprendizado contínuo
-```typescript
-const eduardo = {
-  formacao: [
-    "Análise e Desenvolvimento de Sistemas",
-    "Técnico em Desenvolvimento de Sistemas — Etec",
-    "Técnico em  Contabilidade — Etec", 
-    "Técnico em  Finanças — Etec",
-    "Técnico em  Logistica — Etec", 
-  ],
-    foco: ["Backend", "APIs RESTful", "Clean Code", "Software Engineering"],
-    aprendendo: ["Design Patterns", "Database Design", "Clean Architecture"],
-    hobbies: ["Leitura 📚", "Tecnologia 💡", "Projetos Open Source 🚀"]
-};
-```
+🎯 Objetivo: Transformar aprendizado teórico em projetos práticos, aplicando engenharia de software e análise de requisitos.
+<br clear="right"/>
+
 
 ---
 
