@@ -52,6 +52,7 @@ Documentação Técnica
   </table>
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/EduardoFProenca/EduardoFProenca/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📈 Gráfico de Atividades
