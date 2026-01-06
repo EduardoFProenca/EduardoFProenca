@@ -2,30 +2,36 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1a73e8&height=200&section=header&text=Eduardo%20Ferreira%20Proença&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=fff" />
 </div>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-end;Estudante+de+ADS;Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-end;Estudante+de+ADS;Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
 
+</div>
+
+---
 
 ## 👨‍💻 Sobre Mim
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 Olá! Me chamo Eduardo Ferreira Proença e sou estudante da área de tecnologia, com foco em desenvolvimento de software e engenharia de sistemas.
-🎓 Formação:
 
-Cursando Análise e Desenvolvimento de Sistemas
-Técnico em Desenvolvimento de Sistemas pela Etec
-Técnico em Contabilidade e Finanças pela Etec
+**🎓 Formação:**
+- Cursando Análise e Desenvolvimento de Sistemas
+- Técnico em Desenvolvimento de Sistemas pela Etec
+- Técnico em Contabilidade e Finanças pela Etec
 
-💡 Foco e Interesse:
+**💡 Foco e Interesse:**
+- Desenvolvimento Back-end
+- Lógica de programação
+- Desenvolvimento de APIs
+- Clean Code e boas práticas
+- Arquitetura de Software
+- Documentação Técnica
 
-Desenvolvimento Back-end
-Lógica de programação
-Desenvolvimento de APIs
-Clean Code e boas práticas
-Arquitetura de Software
-Documentação Técnica
+**🎯 Objetivo:** Transformar aprendizado teórico em projetos práticos, aplicando engenharia de software e análise de requisitos.
 
-🎯 Objetivo: Transformar aprendizado teórico em projetos práticos, aplicando engenharia de software e análise de requisitos.
 <br clear="right"/>
-
 
 ---
 
@@ -52,7 +58,18 @@ Documentação Técnica
   </table>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/EduardoFProenca/EduardoFProenca/output/github-contribution-grid-snake.svg)
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoFProenca/EduardoFProenca/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoFProenca/EduardoFProenca/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/EduardoFProenca/EduardoFProenca/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ---
 
 ## 📈 Gráfico de Atividades
@@ -80,13 +97,10 @@ Documentação Técnica
 <div align="center">
 
 ### 💭 Citação do Dia
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 **⭐ Se gostou dos meus projetos, deixe uma estrela! ⭐**
-
-<!-- ![Snake animation](https://github.com/EduardoFProenca/EduardoFProenca/blob/output/github-contribution-grid-snake.svg)
-
-     [![Visitors](https://visitcount.itsvg.in/api?id=EduardoFProenca&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
