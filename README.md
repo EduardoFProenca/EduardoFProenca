@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ## 👨‍💻 Sobre Mim
 
@@ -41,9 +40,15 @@ Olá! Me chamo Eduardo Ferreira Proença e sou estudante da área de tecnologia,
   <img src="https://skillicons.dev/icons?i=c,cs,java,php,html,css,js,mysql,arduino,git&perline=10" />
 </div>
 
----
 
-## 📊 Estatísticas GitHub & 🏆 Conquistas
+
+## 📈 Gráfico de Atividades
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoFProenca&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&height=300" width="90%" />
+</div>
+
+
 
 <div align="center">
   <table>
@@ -58,27 +63,6 @@ Olá! Me chamo Eduardo Ferreira Proença e sou estudante da área de tecnologia,
   </table>
 </div>
 
----
-
-## 🐍 Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoFProenca/EduardoFProenca/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoFProenca/EduardoFProenca/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/EduardoFProenca/EduardoFProenca/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 📈 Gráfico de Atividades
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoFProenca&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&height=300" width="90%" />
-</div>
-
----
 
 ## 📫 Contato
 
@@ -90,6 +74,15 @@ Olá! Me chamo Eduardo Ferreira Proença e sou estudante da área de tecnologia,
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515992608059)
 [![Skoob](https://img.shields.io/badge/Skoob-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white)](https://skoob.com.br/profile/9331023-eduard037)
 
+</div>
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoFProenca/EduardoFProenca/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoFProenca/EduardoFProenca/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/EduardoFProenca/EduardoFProenca/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
