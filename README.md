@@ -72,6 +72,7 @@ Olá! Me chamo **Eduardo Ferreira Proença**, estudante e desenvolvedor apaixona
 
 ---
 
+<!--
 ## 📈 Gráfico de Atividades
 
 <div align="center">
@@ -79,6 +80,7 @@ Olá! Me chamo **Eduardo Ferreira Proença**, estudante e desenvolvedor apaixona
 </div>
 
 ---
+-->
 
 ## 🐍 Contribuições
 
