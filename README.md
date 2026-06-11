@@ -100,7 +100,6 @@ Olá! Me chamo **Eduardo Ferreira Proença**, estudante e desenvolvedor apaixona
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.ferreira.proenca.brasil@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ferreira-39106b26a)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/eduardofproenca)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515992608059)
 [![Skoob](https://img.shields.io/badge/Skoob-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white)](https://skoob.com.br/profile/9331023-eduard037)
 
