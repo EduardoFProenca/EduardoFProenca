@@ -51,7 +51,7 @@ Olá! Me chamo **Eduardo Ferreira Proença**, estudante e desenvolvedor apaixona
 ---
 
 ## 📊 Estatísticas do GitHub
-
+<!-- bug
 <div align="center">
   <img
     align="left"
@@ -65,7 +65,7 @@ Olá! Me chamo **Eduardo Ferreira Proença**, estudante e desenvolvedor apaixona
   />
   <br clear="left"/>
 </div>
-
+-->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoFProenca&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%" />
 </div>
